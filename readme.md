@@ -13,7 +13,7 @@ Use it with Browserify or Webpack.
 
 ```javascript
 
-	var canvasStyles = require();
+	var canvasStyles = require('canvas-styles');
 	
 	var myRectStyle = {
 		fill: '#f4f4f4',
