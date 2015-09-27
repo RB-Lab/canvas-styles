@@ -1,0 +1,24 @@
+{
+  "name": "canvas-styles",
+  "version": "0.0.1",
+  "description": "Apply css-alike styles to figures drawn on canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RB-Lab/canvas-css.git"
+  },
+  "keywords": [
+    "canvas",
+    "css",
+    "styles"
+  ],
+  "author": "RB-Lab <rb@rblab.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RB-Lab/canvas-css/issues"
+  },
+  "homepage": "https://github.com/RB-Lab/canvas-css#readme"
+}
